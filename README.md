@@ -715,6 +715,6 @@ Como futuros proyectos propuestos se podría dividir en dos vertientes, una más
 
 ○ ROS By Example GROOVY - Volume 1   Autor: R. Patrick Goebel  
 
-○ http://es.wikipedia.org/wiki/Robótica 
+○ http://es.wikipedia.org/wiki/Robótica
 
-
+o  http://mariachirobot.com/que-es-ros/
